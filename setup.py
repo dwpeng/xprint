@@ -1,7 +1,7 @@
 from setuptools import setup
 from setuptools import find_packages
 
-__version__ = '0.0.1'
+__version__ = '0.0.2'
 __author__ = 'dwpeng'
 __email__ = '1732889554@qq.com'
 
@@ -10,7 +10,7 @@ with open('README.md', 'r', encoding='utf-8') as fp:
     readme = fp.read()
 
 setup(
-    name='xprint',
+    name='xprintlog',
     version=__version__,
     author=__author__,
     author_email=__email__,

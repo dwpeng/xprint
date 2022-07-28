@@ -1,7 +1,0 @@
-README.md
-setup.py
-src/xprint/__init__.py
-src/xprint.egg-info/PKG-INFO
-src/xprint.egg-info/SOURCES.txt
-src/xprint.egg-info/dependency_links.txt
-src/xprint.egg-info/top_level.txt
